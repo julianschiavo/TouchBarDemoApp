@@ -1,5 +1,10 @@
 # Touch Bar Demo App
 
+<br><br>
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/RNws7dvyjuxA4no4Jb2eCo5X/justdotJS/TouchBarDemoApp'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/RNws7dvyjuxA4no4Jb2eCo5X/justdotJS/TouchBarDemoApp.svg' />
+</a><br><br>
+
 <img src="Resources/Screenshot.png" width="100%">
 
 Touch Bar Demo App allows you to use your macOS Touch Bar from an iPad (through USB connection) or on-screen by pressing the Fn-key. It shows the original Apple Touch Bar, which changes dynamically based on the app you're currently using. With this demo app, you can try out the Touch Bar on any Mac that does not have a physical Touch Bar.
